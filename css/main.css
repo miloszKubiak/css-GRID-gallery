@@ -1,0 +1,25 @@
+body {
+  background-color: #f4f4f4;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 20px auto 0;
+}
+
+.grid-item {
+  background-color: #ff00fb;
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=main.css.map */
